@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-socketio
+jinja2
+python-multipart
